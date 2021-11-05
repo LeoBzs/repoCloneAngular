@@ -15,13 +15,13 @@ export const products = [
   {
     id: 2,
     name: 'Phone Mini',
-    price: 250,
+    price: 699,
     description: 'A great phone with one of the best cameras'
   },
   {
     id: 3,
     name: 'Phone Standard',
     price: 299,
-    description: 'Standard Iphone'
+    description: ''
   }
 ];
